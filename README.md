@@ -1,4 +1,4 @@
-# hello-rizan
+# Hello-Rizan
 
 Hi im Rizan
 
